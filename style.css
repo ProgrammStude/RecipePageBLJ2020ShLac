@@ -1,0 +1,32 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    border: 0em;
+    background-color: #C6EBF6;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.home_title {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 1em;
+}
+
+.home_line {
+    height: 1px;
+    width: 80%;
+    color: black;
+}
+
+.home_button {
+    font-size: 1em;
+    text-align: center;
+}
+
+.home_pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4em;
+    width: 30%;
+}
