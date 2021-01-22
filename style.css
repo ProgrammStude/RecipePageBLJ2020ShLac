@@ -58,3 +58,17 @@ body {
     text-align: center;
     margin-bottom: 2em;
 }
+
+.title_procedure {
+    margin-top: 2em;
+    font-family: 'Montez', cursive;
+    font-size: 3em;
+    text-align: center;
+}
+
+.recipe_line {
+    height: 1px;
+    width: 80%;
+    color: black;
+    margin-top: 6em;
+}
