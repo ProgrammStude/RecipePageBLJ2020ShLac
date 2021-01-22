@@ -23,10 +23,26 @@ body {
     text-align: center;
 }
 
+.button_color {
+    color: black;
+}
+
+.button_color:hover {
+    color: wheat;
+  }
+
 .home_pic {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 4em;
+    margin-top: 3em;
     width: 30%;
+    border-radius: 50%;
+}
+
+.home_props {
+    font-family: 'Montez', cursive;
+    font-size: 1em;
+    text-align: center;
+    margin-top: 1em;
 }
