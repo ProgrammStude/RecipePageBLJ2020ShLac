@@ -72,3 +72,12 @@ body {
     color: black;
     margin-top: 6em;
 }
+
+.download {
+    text-align: center;
+    color: black;
+}
+
+.download:hover {
+    color: wheat;
+}
